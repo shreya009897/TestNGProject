@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-24T09:19:07 IST" name="Default suite" finished-at="2023-11-24T09:19:15 IST" duration-ms="7472">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T09:19:07 IST" name="Default test" finished-at="2023-11-24T09:19:15 IST" duration-ms="7472">
+      <class name="Assertion.SoftAssertion">
+        <test-method signature="verifySoftAssertion()[pri:0, instance:Assertion.SoftAssertion@7d8995e]" started-at="2023-11-24T09:19:07 IST" name="verifySoftAssertion" finished-at="2023-11-24T09:19:15 IST" duration-ms="7394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySoftAssertion -->
+      </class> <!-- Assertion.SoftAssertion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
